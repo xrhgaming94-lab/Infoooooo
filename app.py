@@ -36,7 +36,7 @@ jwt_token = None
 jwt_lock = threading.Lock()
 
 # ---------------- JWT CONFIG ----------------
-JWT_API = "https://api-jwt-alliff.vercel.app/get"
+JWT_API = "https://sycoxjwt.vercel.app/token?"
 
 JWT_CREDENTIALS = {
     "IND": {"uid": "4264854536", "password": "SGXLUCKY_WTGEH_BY_SPIDEERIO_GAMING_J40NG"},
