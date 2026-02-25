@@ -2,14 +2,14 @@
 # Free Fire Account Info API
 #
 # 👑 Owner / Developer :
-# USERNAME  : @INDRAJIT_1M
-# CHANNEL   : @INDRAJITFREEAPI
+# USERNAME  : @STAR_GMR
+# CHANNEL   : @STAR_METHODE
 #
-# Credit    : @INDRAJIT_1M
-# JOIN      : @INDRAJITFREEAPI
+# Credit    : @STAR_GMR
+# JOIN      : @STAR_METHODE
 #
 # Purpose  : Fetch Free Fire profile details using UID (JWT + AES)
-# Note     : THIS CODE MANAGED & MAINTAINED BY @INDRAJIT_1M
+# Note     : THIS CODE MANAGED & MAINTAINED BY @STAR_GMR
 #
 # Endpoint : /info?uid=<PLAYER_UID>&region=<REGION>
 # Example  : /info?uid=11111111&region=IND
@@ -159,8 +159,8 @@ def info():
 def home():
     return jsonify({
         "message": "Free Fire Account Info API",
-        "developer": "@INDRAJIT_1M",
-        "channel": "@INDRAJITFREEAPI",
+        "developer": "@STAR_GMR",
+        "channel": "@STAR_METHODE",
         "endpoint": "/info?uid=UID&region=IND"
     })
 
