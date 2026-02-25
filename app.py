@@ -36,10 +36,10 @@ jwt_token = None
 jwt_lock = threading.Lock()
 
 # ---------------- JWT CONFIG ----------------
-JWT_API = "https://sycoxjwt.vercel.app/token?"
+JWT_API = "http://star-jwt-gen.vercel.app/token?"
 
 JWT_CREDENTIALS = {
-    "IND": {"uid": "4264854536", "password": "SGXLUCKY_WTGEH_BY_SPIDEERIO_GAMING_J40NG"},
+    "IND": {"uid": "4561096905", "password": "eujdjx-fIovYd-IDS-BY-STAR_GMR-Tkdg8C-qPz3m6"},
     "BD":  {"uid": "4363457346", "password": "BD_PASSWORD"},
     "PK":  {"uid": "4363456802", "password": "PK_PASSWORD"},
 }
