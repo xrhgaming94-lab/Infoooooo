@@ -39,8 +39,8 @@ jwt_lock = threading.Lock()
 JWT_API = "http://star-jwt-gen.vercel.app/token?"
 
 JWT_CREDENTIALS = {
-    "IND": {"uid": "4561096905", "password": "eujdjx-fIovYd-IDS-BY-STAR_GMR-Tkdg8C-qPz3m6"},
-    "BD":  {"uid": "4363457346", "password": "BD_PASSWORD"},
+    "IND": {"uid": "4587817313", "password": "SSGSTAR_STAR_65ZV9"},
+    "BD":  {"uid": "4588613337", "password": "STARR_STAR_YXHVW"},
     "PK":  {"uid": "4363456802", "password": "PK_PASSWORD"},
 }
 
