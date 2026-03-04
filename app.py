@@ -145,8 +145,8 @@ def info():
         pb.ParseFromString(bytes.fromhex(api_hex))
         data = MessageToDict(pb)
 
-        data["Developer"] = "@INDRAJIT_1M"
-        data["Channel"] = "@INDRAJITFREEAPI"
+        data["Developer"] = "@STAR_GMR"
+        data["Channel"] = "@STAR_METHODE"
         data["Region"] = region
         data["Version"] = "OB52"
 
