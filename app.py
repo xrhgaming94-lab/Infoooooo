@@ -40,7 +40,7 @@ JWT_API = "http://star-jwt-gen.vercel.app/token?"
 
 JWT_CREDENTIALS = {
     "IND": {"uid": "4587817313", "password": "SSGSTAR_STAR_65ZV9"},
-    "BD":  {"uid": "4608980964", "password": "STAR_GMR_STAR_N02BL"},
+    "BD":  {"uid": "4647636696", "password": "STAR_6TNZJ_BY_STAR_GMR_0428C"},
     "PK":  {"uid": "4608984203", "password": "STAR_GMR_STAR_5DHXJ"},
 }
 
